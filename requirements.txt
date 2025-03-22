@@ -1,0 +1,5 @@
+langchain-google-genai
+browser_use
+python-dotenv
+pydantic
+flask
