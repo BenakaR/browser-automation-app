@@ -11,14 +11,13 @@ browser-automation-app
 │   │   ├── __init__.py
 │   │   ├── browser_agent.py
 │   │   └── browser_use.py
-│   ├── frontend
-│   │   ├── static
-│   │   │   ├── css
-│   │   │   │   └── styles.css
-│   │   │   └── js
-│   │   │       └── main.js
-│   │   └── templates
-│   │       └── index.html
+│   ├── static
+│   │   ├── css
+│   │   │   └── styles.css
+│   │   └── js
+│   │       └── main.js
+│   └── templates
+│   │   └── index.html
 │   ├── app.py
 │   └── config.py
 ├── requirements.txt
