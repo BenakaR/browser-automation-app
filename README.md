@@ -2,39 +2,9 @@
 
 This project is a simple frontend application that automates browsing tasks using a generative AI model. It allows users to input their browsing automation tasks, executes the provided Python code, and displays the results.
 
-## Project Structure
-
-```
-browser-automation-app
-├── src
-│   ├── backend
-│   │   ├── __init__.py
-│   │   ├── browser_agent.py
-│   │   └── browser_use.py
-│   ├── frontend
-│   │   ├── static
-│   │   │   ├── css
-│   │   │   │   └── styles.css
-│   │   │   └── js
-│   │   │       └── main.js
-│   │   └── templates
-│   │       └── index.html
-│   ├── app.py
-│   └── config.py
-├── requirements.txt
-├── .env
-└── README.md
-```
-
 ## Installation
 
-1. Clone the repository:
-   ```
-   git clone <repository-url>
-   cd browser-automation-app
-   ```
-
-2. Install the required dependencies:
+1. Install the required dependencies:
    ```
    pip install -r requirements.txt
    ```

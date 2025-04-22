@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, jsonify
 import asyncio
-from backend.browser_agent import main as run_browser_agent
+from browser_agent import main as run_browser_agent
 
 app = Flask(__name__)
 
